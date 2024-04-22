@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+my_family_env/
+.vscode/
