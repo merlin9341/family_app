@@ -1,3 +1,20 @@
 body {
-  background: blue;
+  background: #Add8E6;
+  margin: 0;
+  padding: 0;
+}
+
+#nav {
+  background: #7393B3;
+  padding: 10px 100px;
+  overflow: auto;
+}
+
+#nav .user{
+  float: right;
+  padding: 4px;
+}
+
+#content {
+  padding: 30px 100px;
 }
